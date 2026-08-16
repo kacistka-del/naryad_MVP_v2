@@ -1,0 +1,8 @@
+"valueNumber","category","value","key","id","created_date","updated_date","created_by_id","is_sample"
+"10","economy","10","commissionRate","6a803def63be247cee56ff00","2026-08-15T10:22:39.404000","2026-08-15T10:22:39.404000","6a803ce663be247cee56fe8e","false"
+"4","timeouts","4","timeoutNewHours","6a803def63be247cee56ff01","2026-08-15T10:22:39.404000","2026-08-15T10:22:39.404000","6a803ce663be247cee56fe8e","false"
+"24","timeouts","24","timeoutAssignedHours","6a803def63be247cee56ff02","2026-08-15T10:22:39.404000","2026-08-15T10:22:39.404000","6a803ce663be247cee56fe8e","false"
+"72","timeouts","72","timeoutAwaitingConfirmHours","6a803def63be247cee56ff03","2026-08-15T10:22:39.404000","2026-08-15T10:22:39.404000","6a803ce663be247cee56fe8e","false"
+"7","timeouts","7","timeoutNeedsInfoDays","6a803def63be247cee56ff04","2026-08-15T10:22:39.404000","2026-08-15T10:22:39.404000","6a803ce663be247cee56fe8e","false"
+"30","timeouts","30","searchRetryMinutes","6a803def63be247cee56ff05","2026-08-15T10:22:39.404000","2026-08-15T10:22:39.404000","6a803ce663be247cee56fe8e","false"
+"","autonomy","L1","autonomyLevel","6a803def63be247cee56feff","2026-08-15T10:22:39.403000","2026-08-15T10:22:39.403000","6a803ce663be247cee56fe8e","false"

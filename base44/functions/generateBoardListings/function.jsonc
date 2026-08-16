@@ -1,0 +1,12 @@
+{
+  "function": {
+    "name": "generateBoardListings",
+    "entry": "entry.ts"
+  },
+  "triggers": [
+    {
+      "type": "schedule",
+      "cron": "0 3 * * *"
+    }
+  ]
+}

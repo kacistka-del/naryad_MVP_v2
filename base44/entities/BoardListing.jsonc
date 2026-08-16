@@ -1,0 +1,73 @@
+{
+  "name": "BoardListing",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "categoryCode": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "currency": {
+      "type": "string"
+    },
+    "price": {
+      "type": "number"
+    },
+    "priceMax": {
+      "type": "number"
+    },
+    "sourceName": {
+      "type": "string"
+    },
+    "sourceUrl": {
+      "type": "string"
+    },
+    "isSeed": {
+      "type": "boolean",
+      "default": false
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "ACTIVE",
+        "ARCHIVED"
+      ],
+      "default": "ACTIVE"
+    }
+  },
+  "required": [
+    "title",
+    "categoryCode",
+    "country",
+    "city",
+    "currency"
+  ],
+  "rls": {
+    "read": {},
+    "create": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "update": {
+      "user_condition": {
+        "role": "admin"
+      }
+    },
+    "delete": {
+      "user_condition": {
+        "role": "admin"
+      }
+    }
+  }
+}

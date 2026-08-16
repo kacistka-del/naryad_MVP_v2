@@ -1,0 +1,6 @@
+"adminId","action","entityId","details","entity","id","created_date","updated_date","created_by_id","is_sample"
+"6a803ce663be247cee56fe8e","SEARCHING","6a8125673029b2e20f7a2de1","Заявка одобрена, поиск исполнителя","Order","6a812575caacdd983a19e73b","2026-08-16T02:50:29.076000","2026-08-16T02:50:29.076000","service_c774a623-5385-460a-922c-178e81fe89a5","false"
+"6a803ce663be247cee56fe8e","REVIEW","6a8125673029b2e20f7a2de1","Взята в проверку","Order","6a81256e0b0e1d627aeecd34","2026-08-16T02:50:22.415000","2026-08-16T02:50:22.415000","service_c774a623-5385-460a-922c-178e81fe89a5","false"
+"6a803ce663be247cee56fe8e","IMPORT_BOARD","web","Ручной импорт (web): 8 объявлений (PL/Białystok/ОТД)","BoardListing","6a812512376d2901813cc509","2026-08-16T02:48:50.095000","2026-08-16T02:48:50.095000","service_c774a623-5385-460a-922c-178e81fe89a5","false"
+"6a803ce663be247cee56fe8e","IMPORT_BOARD","web","Ручной импорт (web): 8 объявлений (RU/all)","BoardListing","6a80e48db2e7198bdc04975c","2026-08-15T22:13:33.510000","2026-08-15T22:13:33.510000","service_c774a623-5385-460a-922c-178e81fe89a5","false"
+"6a803ce663be247cee56fe8e","IMPORT_BOARD","web","Ручной импорт (web): 8 объявлений (RU/all)","BoardListing","6a80e40df8c1faf0ca0c5958","2026-08-15T22:11:25.412000","2026-08-15T22:11:25.412000","service_c774a623-5385-460a-922c-178e81fe89a5","false"

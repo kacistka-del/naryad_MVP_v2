@@ -1,0 +1,5 @@
+"comment","authorRole","authorId","orderId","status","id","created_date","updated_date","created_by_id","is_sample"
+"Заявка одобрена, поиск исполнителя","ADMIN","6a803ce663be247cee56fe8e","6a8125673029b2e20f7a2de1","SEARCHING","6a8125750daa69c4d61d082e","2026-08-16T02:50:29.012000","2026-08-16T02:50:29.012000","service_c774a623-5385-460a-922c-178e81fe89a5","false"
+"Взята в проверку","ADMIN","6a803ce663be247cee56fe8e","6a8125673029b2e20f7a2de1","REVIEW","6a81256e9cc7a9c9e9ebf9db","2026-08-16T02:50:22.335000","2026-08-16T02:50:22.335000","service_c774a623-5385-460a-922c-178e81fe89a5","false"
+"Наряд оформлен клиентом","CLIENT","6a803ce663be247cee56fe8e","6a8125673029b2e20f7a2de1","NEW","6a81256820133ea1e146b59c","2026-08-16T02:50:16.085000","2026-08-16T02:50:16.085000","6a803ce663be247cee56fe8e","false"
+"Наряд оформлен клиентом","CLIENT","6a805da86d1ce7dc1df6b2cf","6a805e0a7b3a715470fd8ddd","NEW","6a805e0ad59cb6e61fb7c296","2026-08-15T12:39:38.552000","2026-08-15T12:39:38.552000","6a805da86d1ce7dc1df6b2cf","false"
