@@ -1,0 +1,28 @@
+{
+  "name": "naryad-server",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-hosted backend for NARYAD v2 — auth, entities, marketplace logic, currency, AI, monetization",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "migrate": "node src/migrate.js",
+    "seed": "node src/seed.js",
+    "fx:refresh": "node -e \"import('./src/services/currency.js').then(m=>m.refreshRates()).then(r=>console.log(r))\""
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.14",
+    "pg": "^8.12.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
